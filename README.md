@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 + Begginer self-taught developer
-+ Obssesed with C++
++ Obssesed with C#, C++
 + I'm currently working on in a Notepad made in C++
 + Learning C#, C++, Java, JS, HTML, PHP and Py!
 + Main Language (begginer mode haha): C# and C++
