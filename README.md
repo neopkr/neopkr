@@ -2,8 +2,8 @@
 
 + Begginer self-taught developer
 + Obssesed with C#, C++
-+ I'm currently working on in a Notepad made in C++
-+ Learning C#, C++, Java, JS, HTML, PHP and Py!
++ I'm currently working on in a [Notepad made in C++](https://github.com/neopkr/NeonpadCPP)
++ Learning C#, C++, Java, JS, HTML, PHP and Py! (and TypeScript, but i dont have anything yet)
 + Main Language (begginer mode haha): C# and C++
 
 ###
