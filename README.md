@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+ Begginer self-taught developer
++ Self-taught developer
 + Obssesed with C#, C++
 + I'm currently working on in a [Notepad made in C++](https://github.com/neopkr/NeonpadCPP)
 + Learning C#, C++, Java, JS, HTML, PHP and Py! (and TypeScript, but i dont have anything yet)
