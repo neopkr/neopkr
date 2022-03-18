@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 2022 Update!
 
 + Self-taught developer
-+ Obssesed with C#, C++
-+ I'm currently working on in a [Notepad made in C++](https://github.com/neopkr/NeonpadCPP)
-+ Learning C#, C++, Java, JS, HTML, PHP and Py! (and TypeScript, but i dont have anything yet)
-+ Main Language: C# and C++
-+ Working FullStack Developer
++ Obssesed with Python, web development
++ I'm currently working on in a several private projects!
++ JS Fullstack developer.
++ Main Language: Javascript, C# and Python
++ Programming only for hobby
 
 ###
 
