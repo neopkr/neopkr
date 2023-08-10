@@ -1,8 +1,8 @@
 ### Hi there 👋
 + Self-taught developer
-+ Web Development
-+ Working on private repositories just fon fun
-+ JS Fullstack
++ Web Development / Software Development
++ Working on private repositories just for fun
++ TS/JS Fullstack
 + Main Language: Javascript, Typescript, Python, Java
 + Programming only for hobby
 
