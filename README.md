@@ -1,18 +1,10 @@
-### Hi there 👋
-+ Self-taught developer
-+ Web Development / Software Development
-+ Working on private repositories just for fun
-+ TS/JS Fullstack
-+ Main Language: Javascript, Typescript, Python, Java
-+ Programming only for hobby
+# Hello there!
+### Currently working on: [Vaultify](https://github.com/neopkr/Vaultify/)!  
+A new application designed to securely manage and validate one-time passwords (OTPs) for all your favorite platforms like Discord, Twitch, and more. Vaultify allows you to centralize OTP handling, offering:  
 
-###
+- **Cross-Platform Compatibility**: Works seamlessly with diverse OTP systems.  
+- **Customizable Expiration Times**: Supports OTPs with different time intervals.  
+- **Real-Time Validation**: Ensures accurate and efficient authentication.  
+- **Advanced Security**: Encrypts all data for maximum protection.  
 
-<a href="https://github.com/neopkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neopkr&count_private=true&show_icons=true&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
-</a>
-<a href="https://github.com/neopkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neopkr&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
-</a>
-<!--
-**neopkr/neopkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Streamline your authentication process and take control of your digital security with Vaultify! 🚀
